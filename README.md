@@ -9,6 +9,6 @@ This project basically implements class functional components and manages the st
 - CSS
 - JSX
 - Function Components in React
-- Approach
 
+# Approach
 To create a Movie Search Engine using ReactJS, we set up the project, create a SearchBar component for user input, manage the search term state with the useState hook, fetch movie data from an API using the use effect hook, render movie information in a MovieList component using JSX, combine components in the main App component, style the components with CSS, and test the application by running it and entering movie titles in the search bar.
