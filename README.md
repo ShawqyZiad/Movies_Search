@@ -1,5 +1,5 @@
 # Movies_Search
-In this article, we will create Movie Search Engine using ReactJS. In this movie search engine the user can search for movies which they want to know about and the search engine will fetch a list of movies from that keyword and display the result in the forms of card. A default search has been loaded initially to display movies.
+we will create Movie Search Engine using ReactJS. In this movie search engine the user can search for movies which they want to know about and the search engine will fetch a list of movies from that keyword and display the result in the forms of card. A default search has been loaded initially to display movies.
 
 This project basically implements class functional components and manages the state accordingly. The application user uses the search bar to search for the movie and then the application returns the information about the movie searched. The logic of searching the movie and getting results of the searched movie is implemented using JSX.
 
