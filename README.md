@@ -3,7 +3,7 @@ In this article, we will create Movie Search Engine using ReactJS. In this movie
 
 This project basically implements class functional components and manages the state accordingly. The application user uses the search bar to search for the movie and then the application returns the information about the movie searched. The logic of searching the movie and getting results of the searched movie is implemented using JSX.
 
-*Technologies Used/Pre-requisites:
+Technologies Used/Pre-requisites:
 
 - ReactJS
 - CSS
